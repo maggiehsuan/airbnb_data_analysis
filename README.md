@@ -1,7 +1,5 @@
 # Airbnb Boston and Seattle Data Analysis
 
-## Airbnb Boston and Seattle Data Analysis
-
 ### Motivation
 
 For this project, I want to explore the Boston and Seattle Airbnb dataset and find out the answer for my three business questions of interest by using descriptive analysis, inferential statistics, and machine learning:
