@@ -1,0 +1,21 @@
+,feature_names,feature_coeff,feature_coeff_abs
+78,calendar_updated_16 months ago,168.2127,168.2127
+208,neighbourhood_cleansed_South Boston Waterfront,136.339,136.339
+79,calendar_updated_17 months ago,132.236,132.236
+91,calendar_updated_30 months ago,110.0502,110.0502
+111,cancellation_policy_super_strict_30,109.5026,109.5026
+86,calendar_updated_23 months ago,95.1756,95.1756
+124,neighbourhood_cleansed_Bay Village,93.6829,93.6829
+236,property_type_Dorm,-89.3708,89.3708
+123,neighbourhood_cleansed_Back Bay,87.6299,87.6299
+125,neighbourhood_cleansed_Beacon Hill,86.8803,86.8803
+167,neighbourhood_cleansed_Leather District,83.6704,83.6704
+147,neighbourhood_cleansed_Fenway,79.6895,79.6895
+213,neighbourhood_cleansed_Southeast Magnolia,78.3589,78.3589
+161,neighbourhood_cleansed_Industrial District,70.7513,70.7513
+140,neighbourhood_cleansed_Downtown,70.5324,70.5324
+136,neighbourhood_cleansed_Chinatown,68.4075,68.4075
+230,property_type_Boat,65.7272,65.7272
+210,neighbourhood_cleansed_South End,65.3653,65.3653
+212,neighbourhood_cleansed_South Park,-62.5044,62.5044
+64,amenities_washer_/_dryer,61.4017,61.4017
