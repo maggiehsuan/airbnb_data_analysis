@@ -41,7 +41,7 @@ For each city, the dataset is composed of three CSV files:<br>
 
 **Answer to Question 1:**
 
-The rates in Seattle are significantly lower than in Boston, also the rates are higher on Friday and Saturday and at the lowest on Tuesdays in both cities. By comparing the rates plots with the availability plots we can identify a slight opposite trends of availability towards the rates, for example in September and October in Boston are the vacancies at only about 30 percent and the daily rates quite expensive at about 190$. The availabilities of the listings do not differ by weekday in both cities.
+The rates in Seattle are significantly lower than in Boston, also the rates are higher on Friday and Saturday and at the lowest on Tuesdays in both cities. By comparing the rates plots with the availability plots we can identify a slight opposite trends of availability towards the rates, for example in September and October in Boston are the vacancies at only about 30 percent and the daily rates quite expensive at about 190$. In Seattle are the vacancies at about 70% and the rates below the average at about 138$. There is an imbalance between supply and demand in both cities.
 
 **Answer to Question 2:**
 
