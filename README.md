@@ -2,7 +2,11 @@
 
 ### Motivation
 
+<<<<<<< HEAD
 For this project, I want to explore the Boston and Seattle Airbnb dataset and find out the answer for my three business questions of interest by using descriptive analysis, and machine learning:
+=======
+For this project, I want to explore the Boston and Seattle Airbnb dataset and find out the answer for my three business questions of interest by using descriptive analysis, inferential statistics, and machine learning:
+>>>>>>> 816a6b752aa79033261839cf648ac7a6076d09c8
 
 **Question 1:**
 How does price and availability of airbnb listings in Seattle and Boston change over time? Are there any seasonal patterns? 
